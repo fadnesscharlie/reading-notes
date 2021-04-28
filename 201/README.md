@@ -26,7 +26,7 @@
 
 * [Class 102](https://fadnesscharlie.github.io/Reading-notes201/102) &nbsp;
 
-<img src="../images/ProfilePic.jpg" width="400" height="500">
+<img src="../images/ProfilePic.jpg" width="400" height="500"> 
 
 Thank you for reading this webpage! I look forward to working with you in the future!  
 
