@@ -7,7 +7,7 @@
 
 ### Class 102 Reading Notes
 
-* [102 Home](https://fadnesscharlie.github.io/Reading-notes1000/)
+* [102 Home](https://fadnesscharlie.github.io/Reading-notes1000/102)
 * [Growth Mindset](/growth_mindset)
 * [Learning Markdown](/learning_markdown)
 * [Learning HTML](/learning_html)
@@ -20,7 +20,7 @@
 
 ### Class 201 Reading Notes
 
-* [201 Home](https://fadnesscharlie.github.io/Reading-notes201/)
+* [201 Home](https://fadnesscharlie.github.io/Reading-notes201/201)
 * [Class 01](/201/class-01)
 * [class-02](/201/class-02)
 * [class-03](/201/class-03)

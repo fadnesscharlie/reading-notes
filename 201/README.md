@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-* [Home](https://fadnesscharlie.github.io/reading-notes201/)
+* [Home](https://fadnesscharlie.github.io/reading-notes201/201)
 * [Class 1](class-01)
 * [Class 2](class-02)
 * [Class 3](class-03)
@@ -24,7 +24,7 @@
 
 ## 102 Reading Notes
 
-* [Class 102](https://fadnesscharlie.github.io/Reading-notes201/) &nbsp;
+* [Class 102](https://fadnesscharlie.github.io/Reading-notes201/102) &nbsp;
 
 <img src="https://github.com/fadnesscharlie/Reading-notes/blob/main/ProfilePic.jpg?raw=true" width="400" height="500">
 
