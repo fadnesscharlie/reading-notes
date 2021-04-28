@@ -126,4 +126,69 @@ Notice that the order is a little different, we are adding a new `<ul></ul>` ins
 
 ## Boxes
 
-### Limited Height
+### Limited Height with Min and Max
+
+From what you remember when we used say `<p></p>` tags, we can modify those. Because each of those tags create their own box, think of the wire frame we used to create our HTML pages.
+
+<div style =" height: 300px; width: 400px; background-color: red;">
+<p style ="height: 70%; width: 70%; background-color: blue;">
+Let's create some text in here to create our box shall we!
+</p>
+</div>
+ Below is the code we used for our box.
+
+`<div>`  
+&nbsp;&nbsp;&nbsp;&nbsp;`<p>`  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Let's create some text in here to create our box shall we!`  
+&nbsp;&nbsp;&nbsp;&nbsp;`</p>`  
+`</div>`
+
+In our box above, we added a `<div></div>` tag and inside a `<p></p>` tag. We added some CSS to it so you can see the what setting a width and height can be.
+
+`div {`  
+&nbsp;&nbsp;&nbsp;&nbsp;`height: 300px;`  
+&nbsp;&nbsp;&nbsp;&nbsp;`width: 400px;`  
+&nbsp;&nbsp;&nbsp;&nbsp;`background-color: red;`  
+`}`
+
+`p {`  
+&nbsp;&nbsp;&nbsp;&nbsp;`height: 70%;`  
+&nbsp;&nbsp;&nbsp;&nbsp;`width: 70%;`  
+&nbsp;&nbsp;&nbsp;&nbsp;`background-color: blue;`  
+`}`
+
+As you can see the height and width set for both boxes, one set with px or pixels, and the other set with percentages. There is a third way of setting those as well with `em`.
+
+### Percentages
+
+Percentages have the advanage of looks, you can set something within something without having to know how many pixels, the downfall of this is that it is based on the users window. Whether it be from their computer, tablet, or even their phone. Sometimes it can compress your text or information inside.
+
+### Pixels
+
+Pixels have their advantage because now you be exact in how you want to see it across multiple platforms and stay the same.
+
+### Ems
+
+Ems and Percentages have been more commonly used. Ems base the size on the text inside the box which is very helpful in cases where you dont want words to leak or be compressed when seeing the same page over different screen types and platforms.
+
+### Min-Maxing
+
+With wanting to min and max the width for certain devices, below is an example of that. This is nice for people who may be viewing it on an extra large screen, or a very high pixel screen. An example would be, we wouldnt want this to take over the whole screen if someone had a 70inch 4k TV they were viewing it on.
+
+When limiting the height and width, you want to make sure to ame sure all of your content is inside the box, for if you have to much content and not enough space, the text will start to spill out and compress it, and it will not look good to anyone anymore. 
+
+`p {`  
+&nbsp;&nbsp;&nbsp;&nbsp;`min-height: 70%;`  
+&nbsp;&nbsp;&nbsp;&nbsp;`max-height: 70%;`   
+`}`
+
+### Overflow
+
+When dealing with oveflow, we have two options, we can hide the content, it willc ut off the extra text, which creates space, or adds a scroll feature which makes the content fit inside the box while scrolling through that box.
+
+
+
+`p {`  
+&nbsp;&nbsp;&nbsp;&nbsp;`overflow: hidden`  
+&nbsp;&nbsp;&nbsp;&nbsp;`overflow: scroll`   
+`}`
