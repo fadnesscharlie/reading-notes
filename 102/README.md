@@ -7,20 +7,20 @@
 
 ### Class 102 Reading Notes
 
-* [102 Home](https://fadnesscharlie.github.io/Reading-notes1000/102)
-* [Growth Mindset](/growth_mindset)
-* [Learning Markdown](/learning_markdown)
-* [Learning HTML](/learning_html)
-* [Learning Git](/learning_git)
-* [Learning CSS](/learning_css)
-* [Learning JS](/learning_js)
-* [learning Programming](/learning_programming)
-* [Learning Operators and Loops](/learning_operators_and_loops)
-* [Learning Architecture and Logic](/learning_arch_and_logic)
+* [102 Home](https://fadnesscharlie.github.io/reading-notes/102)
+* [Growth Mindset](/102/growth_mindset)
+* [Learning Markdown](/102/learning_markdown)
+* [Learning HTML](/102/learning_html)
+* [Learning Git](/102/learning_git)
+* [Learning CSS](/102/learning_css)
+* [Learning JS](/102/learning_js)
+* [learning Programming](/102/learning_programming)
+* [Learning Operators and Loops](/102/learning_operators_and_loops)
+* [Learning Architecture and Logic](/102/learning_arch_and_logic)
 
 ### Class 201 Reading Notes
 
-* [201 Home](https://fadnesscharlie.github.io/Reading-notes201/201)
+* [201 Home](https://fadnesscharlie.github.io/reading-notes/201)
 * [Class 01](/201/class-01)
 * [class-02](/201/class-02)
 * [class-03](/201/class-03)
@@ -37,9 +37,8 @@
 * [class-14](/201/class-14)
 * [class-15](/201/class-15)
 
-<img src="https://github.com/fadnesscharlie/Reading-notes/blob/main/ProfilePic.jpg?raw=true" width="400" height="500">
+<img src="../images/ProfilePic.jpg" width="400" height="500">
 
-<!-- ![Profile Pic](https://github.com/fadnesscharlie/Reading-notes/blob/main/ProfilePic.jpg?raw=true)  -->
 
 Thank you for reading this webpage! I look forward to working with you in the future!
 
