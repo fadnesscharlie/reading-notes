@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-* [Home](https://fadnesscharlie.github.io/reading-notes201/201)
+* [Home](https://fadnesscharlie.github.io/reading-notes/201)
 * [Class 1](class-01)
 * [Class 2](class-02)
 * [Class 3](class-03)
