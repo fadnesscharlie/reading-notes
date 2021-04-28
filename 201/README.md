@@ -24,7 +24,7 @@
 
 ## 102 Reading Notes  
 
-* [Class 102](https://fadnesscharlie.github.io/Reading-notes201/102) &nbsp;
+* [Class 102](https://fadnesscharlie.github.io/reading-notes/102) &nbsp;
 
 <img src="../images/ProfilePic.jpg" width="400" height="500">
 
