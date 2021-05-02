@@ -1,6 +1,6 @@
 # Class 02
 
-* [Home](https://fadnesscharlie.github.io/reading-notes201/) 
+* [Home](https://fadnesscharlie.github.io/reading-notes/201/) 
 
 ## Lists
 
