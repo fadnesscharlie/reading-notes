@@ -1,6 +1,6 @@
 # Learning Operators and Loops
 
-[Home](https://fadnesscharlie.github.io/Reading-notes1000/) 
+[Home](https://fadnesscharlie.github.io/reading-notes/102)
 
 ## Logical Operators
 

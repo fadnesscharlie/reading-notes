@@ -2,7 +2,7 @@
 
 # Learning JavaScript Programming
 
-[Home](https://fadnesscharlie.github.io/Reading-notes1000/)
+[Home](https://fadnesscharlie.github.io/reading-notes/102)
 
 ## Variables
 

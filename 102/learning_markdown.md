@@ -2,7 +2,7 @@
 
 ## Learning JavaScript Programming
 
-[Home](https://fadnesscharlie.github.io/Reading-notes1000/)
+[Home](https://fadnesscharlie.github.io/reading-notes/102)
 
 Through all the things I have learned through this course so far are a lot of useful features that you may run into and never bothering to open, or even look it.
 Today I'll explain a few of those features to you!

@@ -3,7 +3,7 @@
 
 # Learning JavaScript Programming
 
-[Home](https://fadnesscharlie.github.io/Reading-notes1000/)
+[Home](https://fadnesscharlie.github.io/reading-notes/102)
 
 ![Image of Css](https://images.unsplash.com/photo-1505685296765-3a2736de412f?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Y3NzfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 

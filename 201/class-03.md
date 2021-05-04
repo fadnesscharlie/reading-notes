@@ -186,11 +186,9 @@ When limiting the height and width, you want to make sure to ame sure all of you
 
 When dealing with oveflow, we have two options, we can hide the content, it willc ut off the extra text, which creates space, or adds a scroll feature which makes the content fit inside the box while scrolling through that box.
 
-
-
 `p {`  
 &nbsp;&nbsp;&nbsp;&nbsp;`overflow: hidden`  
-&nbsp;&nbsp;&nbsp;&nbsp;`overflow: scroll`   
+&nbsp;&nbsp;&nbsp;&nbsp;`overflow: scroll`  
 `}`
 
 ## Border, Margin, and Padding
