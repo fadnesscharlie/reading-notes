@@ -5,6 +5,13 @@
 
 ## Table of Contents
 
+### 102 Reading Notes  
+
+* [Class 102](https://fadnesscharlie.github.io/reading-notes/102) &nbsp;
+
+### 201 Reading Notes
+
+* [Class 201](https://fadnesscharlie.github.io/reading-notes/201)
 * [Home](https://fadnesscharlie.github.io/reading-notes/201)
 * [Class 1](class-01)
 * [Class 2](class-02)
@@ -21,11 +28,16 @@
 * [Class 13](class-13)
 * [Class 14](class-14)
 
-## 102 Reading Notes  
 
-* [Class 102](https://fadnesscharlie.github.io/reading-notes/102) &nbsp;
+### 301 Reading Notes
 
-<img src="../images/ProfilePic.jpg" width="400" height="500">
+- [Class 301](https://fadnesscharlie.github.io/reading-notes/301)
+
+### 401 Reading Notes
+
+- [Home](https://fadnesscharlie.github.io/reading-notes/401)
+
+<img src="../images/Profile-Pic.JPG" width="600" height="400">
 
 Thank you for reading this webpage! I look forward to working with you in the future!  
 

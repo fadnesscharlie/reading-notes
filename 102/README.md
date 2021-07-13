@@ -21,23 +21,17 @@
 ### Class 201 Reading Notes
 
 * [201 Home](https://fadnesscharlie.github.io/reading-notes/201)
-* [Class 01](../201/class-01)
-* [class-02](../201/class-02)
-* [class-03](../201/class-03)
-* [class-04](../201/class-04)
-* [class-05](../201/class-05)
-* [class-06](../201/class-06)
-* [class-07](../201/class-07)
-* [class-08](../201/class-08)
-* [class-09](../201/class-09)
-* [class-10](../201/class-10)
-* [class-11](../201/class-11)
-* [class-12](../201/class-12)
-* [class-13](../201/class-13)
-* [class-14](../201/class-14)
-* [class-15](../201/class-15)
 
-<img src="../images/ProfilePic.jpg" width="400" height="500">
+### 301 Reading Notes
+
+- [Class 301](https://fadnesscharlie.github.io/reading-notes/301)
+
+### 401 Reading Notes
+
+- [Home](https://fadnesscharlie.github.io/reading-notes/401)
+
+
+<img src="../images/Profile-Pic.JPG" width="600" height="400">
 
 Thank you for reading this webpage! I look forward to working with you in the future!
 
