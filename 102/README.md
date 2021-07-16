@@ -5,9 +5,9 @@
 
 ## Table of Contents
 
-### Class 102 Reading Notes
+### Code 102: Intro to Software Development
 
-* [102 Home](https://fadnesscharlie.github.io/reading-notes/102)
+- [Home](https://fadnesscharlie.github.io/reading-notes/102)
 * [Growth Mindset](growth_mindset)
 * [Learning Markdown](learning_markdown)
 * [Learning HTML](learning_html)
@@ -18,19 +18,19 @@
 * [Learning Operators and Loops](learning_operators_and_loops)
 * [Learning Architecture and Logic](learning_arch_and_logic)
 
-### Class 201 Reading Notes
+### Code 201: Foundations of Software Development
 
-* [201 Home](https://fadnesscharlie.github.io/reading-notes/201)
+* [Code 201: Home](https://fadnesscharlie.github.io/reading-notes/201)
 
-### 301 Reading Notes
+### Code 301: Intermediate Software Development
 
-- [Class 301](https://fadnesscharlie.github.io/reading-notes/301)
+- [Code 301: Home](https://fadnesscharlie.github.io/reading-notes/301)
 
-### 401 Reading Notes
+### Code 401: Advanced Software Development in Full-Stack JavaScript
 
-- [Home](https://fadnesscharlie.github.io/reading-notes/401)
+- [Code 401: Home](https://fadnesscharlie.github.io/reading-notes/401)
 
-
+<br>
 <img src="../images/Profile-Pic.JPG" width="600" height="400">
 
 Thank you for reading this webpage! I look forward to working with you in the future!

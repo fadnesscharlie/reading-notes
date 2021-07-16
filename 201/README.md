@@ -5,38 +5,37 @@
 
 ## Table of Contents
 
-### 102 Reading Notes  
+### Code 102: Intro to Software Development 
 
-* [Class 102](https://fadnesscharlie.github.io/reading-notes/102) &nbsp;
+* [Code 102: Home](https://fadnesscharlie.github.io/reading-notes/102) &nbsp;
 
-### 201 Reading Notes
+### Code 201: Foundations of Software Development
 
-* [Class 201](https://fadnesscharlie.github.io/reading-notes/201)
-* [Home](https://fadnesscharlie.github.io/reading-notes/201)
-* [Class 1](class-01)
-* [Class 2](class-02)
-* [Class 3](class-03)
-* [Class 4](class-04)
-* [Class 5](class-05)
-* [Class 6](class-06)
-* [Class 7](class-07)
-* [Class 8](class-08)
-* [Class 9](class-09)
-* [Class 10](class-10)
-* [Class 11](class-11)
-* [Class 12](class-12)
-* [Class 13](class-13)
-* [Class 14](class-14)
+- [Code 201: Home](https://fadnesscharlie.github.io/reading-notes/201)
+* [Introductory HTML and JavaScript](class-01)
+* [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02)
+* [HTML Lists, CSS Boxes, JS Control Flow](class-03)
+* [HTML Links, CSS Layout, JS Functions](class-04)
+* [HTML Images; CSS Color & Text](class-05)
+* [JS Object Literals; The DOM](class-06)
+* [HTML Tables; JS Constructor Functions](class-07)
+* [More CSS Layout](class-08)
+* [Forms and Events](class-09)
+* [JS Debugging](class-10)
+* [Assorted Topics](class-11)
+* [Docs for the HTML canvas Element & Chart.js](class-12)
+* [Local Storage](class-13)
+* [CSS Transforms, Transitions, and Animations & What Google Learned About Teams](class-14)
 
+### Code 301: Intermediate Software Development
 
-### 301 Reading Notes
+- [Code 301: Home](https://fadnesscharlie.github.io/reading-notes/301)
 
-- [Class 301](https://fadnesscharlie.github.io/reading-notes/301)
+### Code 401: Advanced Software Development in Full-Stack JavaScript
 
-### 401 Reading Notes
+- [Code 401: Home](https://fadnesscharlie.github.io/reading-notes/401)
 
-- [Home](https://fadnesscharlie.github.io/reading-notes/401)
-
+<br>
 <img src="../images/Profile-Pic.JPG" width="600" height="400">
 
 Thank you for reading this webpage! I look forward to working with you in the future!  

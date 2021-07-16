@@ -4,22 +4,23 @@
 
 ## Table of Contents
 
-### 401 Reading Notes
+### Code 102: Intro to Software Development 
 
-- [Home](https://fadnesscharlie.github.io/reading-notes/401)
+- [Code 102: Home](https://fadnesscharlie.github.io/reading-notes/102)
 
-### 301 Reading Notes
+### Code 201: Foundations of Software Development
 
-- [Class 301](https://fadnesscharlie.github.io/reading-notes/301)
+- [Code 201: Home](https://fadnesscharlie.github.io/reading-notes/201)
 
-### 201 Reading Notes
+### Code 301: Intermediate Software Development
 
-- [Class 201](https://fadnesscharlie.github.io/reading-notes/201)
+- [Code 301: Home](https://fadnesscharlie.github.io/reading-notes/301)
 
-### 102 Reading Notes  
+### Code 401: Advanced Software Development in Full-Stack JavaScript
 
-- [Class 102](https://fadnesscharlie.github.io/reading-notes/102)
+- [Code 401: Home](https://fadnesscharlie.github.io/reading-notes/401)
 
+<br>
 <img src="../images/Profile-Pic.JPG" width="600" height="400">
 
 Thank you for reading this webpage! I look forward to working with you in the future!  
