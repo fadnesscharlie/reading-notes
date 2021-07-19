@@ -9,11 +9,11 @@
 2. What is the very first thing to happen in the lifecycle of React?
   a.
 3. Put the following things in the order that they happen: **componentDidMount**, **render**, **constructor**, **componentWillUnmount**, **React Updates**
-  a.
-  b.
-  c.
-  d.
-  e.
+  a. Constructor
+  b. React Updates
+  c. render
+  d. componentDidMount
+  e. componentWillUnmount
 4. What does componentDidMount do?
   a.
 

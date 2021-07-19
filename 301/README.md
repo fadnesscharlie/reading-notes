@@ -26,7 +26,7 @@
 - [Code 301: Home](https://fadnesscharlie.github.io/reading-notes/301)
 - [Introduction to React and Components](read-01)
 - [State and Props](read-02)
-- [Class 3](read-03)
+- [Passing Functions as Props](read-03)
 - [Class 4](read-04)
 - [Class 5](read-05)
 - [Class 6](read-06)
