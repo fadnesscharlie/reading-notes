@@ -1,6 +1,14 @@
 # 
 
-* [Home](https://fadnesscharlie.github.io/reading-notes/301/)
+- [Home](https://fadnesscharlie.github.io/reading-notes/301/)
+
+## BookMark/Skim
+
+- []()
+
+## Things I want to know more about
+
+- 
 
 Please visit my Github for more of my Projects!
 

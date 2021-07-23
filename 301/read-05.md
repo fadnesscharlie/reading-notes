@@ -1,6 +1,10 @@
-# 
+# Putting it all together
 
-* [Home](https://fadnesscharlie.github.io/reading-notes/301/)
+- [Home](https://fadnesscharlie.github.io/reading-notes/301/)
+
+## Things I want to know more about
+
+- 
 
 Please visit my Github for more of my Projects!
 

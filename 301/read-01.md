@@ -37,3 +37,15 @@
 ## Referneces
 
 - [Component Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.html)
+
+## BookMark/Skim
+
+- [React Tutorial through ‘Passing Data Through Props’](https://reactjs.org/tutorial/tutorial.html)
+- [React Docs - Hello World](https://reactjs.org/docs/hello-world.html)
+- [React Docs - Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+- [React Docs - Rendering Elements](https://reactjs.org/docs/rendering-elements.html)
+- [React Docs - Components and Props](https://reactjs.org/docs/components-and-props.html)
+
+Please visit my Github for more of my Projects!
+
+[Charlie Fadness Github](https://github.com/fadnesscharlie)

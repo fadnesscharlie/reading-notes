@@ -1,6 +1,6 @@
 # State and Props
 
-* [Home](https://fadnesscharlie.github.io/reading-notes/301/)
+- [Home](https://fadnesscharlie.github.io/reading-notes/301/)
 
 ## React Lifestyle
 
@@ -42,7 +42,13 @@ Lets a component save AND update data FOR ITSELF. Within one component. Can be u
 
 ## Things I want to know more about
 
-- 
+- State and Props
+
+## BookMark/Skim
+
+- [React Docs - State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+- [React Docs - Handling Events](https://reactjs.org/docs/handling-events.html)
+- [React Turorials through 'Developer Tools'](https://reactjs.org/tutorial/tutorial.html)
 
 Please visit my Github for more of my Projects!
 
