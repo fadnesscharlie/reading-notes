@@ -5,28 +5,28 @@
 ## React Lifestyle
 
 1. Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
-  a.
+   1. Render
 2. What is the very first thing to happen in the lifecycle of React?
-  a.
+   1. The constructor runs first
 3. Put the following things in the order that they happen: **componentDidMount**, **render**, **constructor**, **componentWillUnmount**, **React Updates**
-  a. Constructor
-  b. React Updates
-  c. render
-  d. componentDidMount
-  e. componentWillUnmount
+   1. Constructor
+   2. React Updates
+   3. render
+   4. componentDidMount
+   5. componentWillUnmount
 4. What does componentDidMount do?
-  a.
+   1. Method invoked right after a component is mounted. It can be used to make any calls to functions you want to run, once the component is in place (e.g. setting state)
 
 ## React State Vs Props
 
 1. What types of things can you pass in the props?
-  a. Arguments: Like title, name, car type. What you want your component to render.
+   1. Arguments: Like title, name, car type. What you want your component to render.
 2. What is the big difference between props and state?
-  a. Props are handled outside while state is handled inside the component.
+   1. Props are handled outside while state is handled inside the component.
 3. When do we re-render our application?
-  a. When we make change to the state.
+   1. When we make change to the state.
 4. What are some examples of things that we could store in state?
-  a. Forms are one good example because it will change what is inside the component when the user adds their information.
+   1. Forms are one good example because it will change what is inside the component when the user adds their information.
 
 ### What are Props
 

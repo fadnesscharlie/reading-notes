@@ -5,16 +5,16 @@
 ## React Forms
 
 1. What is a ‘Controlled Component’?
-  a. A controlled component is something that combines the form's states and updating the states all in one.
+   1. A controlled component is something that combines the form's states and updating the states all in one.
 2. Should we wait to store the users responses from the form into state when they submit the form OR should we update the state with their responses as soon as they enter them? Why.
-  a. Updating the state as they update their response can be better, I would like like a search bar, to see what your search will give you based on just the bits of information first instead of waiting for the whole response then loading the search results.
+   1. Updating the state as they update their response can be better, I would like like a search bar, to see what your search will give you based on just the bits of information first instead of waiting for the whole response then loading the search results.
 3. How do we target what the user is entering if we have an event handler on an input field?
-  a. With `this.state` or using a name to categorize which form element is being used at the time.
+   1. With `this.state` or using a name to categorize which form element is being used at the time.
 
 ## Conditional Ternary Operator
 
 1. Why would we use a ternary operator?
-  a. a few examples of when using ternary operator would be is: in an object to delcare a yes or no and to make code shorter.
+   1. a few examples of when using ternary operator would be is: in an object to delcare a yes or no and to make code shorter.
 2. Rewrite the following statement using a ternary statement:
 
 &nbsp;&nbsp;&nbsp;&nbsp;`if(x===y){`<br>
