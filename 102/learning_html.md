@@ -29,4 +29,14 @@ We add our images in HTML by writing down `<img src="Image_Adress" alt="Descript
 
 For our links, it has the same concept, we write out `<a href="Where-do-we-want-to-be-directed">` This is what the user sees when clicking to that link`</a>`. Adding this, along side some CSS, we can change the image of the link, add more around it, or even make the user click on a image to redirect them to another page in there website, or another link.
 
+## Resources
+
+- [Wireframe and Design](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
+- [Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
+
+## BookMark/Skim
+
+- [Mozilla HTML Docs](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
 [Charlie Fadness Github](https://fadnesscharlie.github.io/Reading-notes/)

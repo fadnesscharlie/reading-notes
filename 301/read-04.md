@@ -27,6 +27,11 @@
 
 You can also have a nested ternary as well, in your else statement you would put another ternary which will test more, make sure you are very specific at first then less specific as you go.
 
+## Resources
+
+- [React Docs - Forms](https://reactjs.org/docs/forms.html)
+- [The Conditional (Ternary) Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
+
 ## BookMark/Skim
 
 - [React Bootstrap - Forms](https://react-bootstrap.github.io/components/forms/)

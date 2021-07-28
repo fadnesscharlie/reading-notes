@@ -1,6 +1,6 @@
-# Class 02
+# HTML Lists, CSS Boxes, JS Control Flow
 
-* [Home](https://fadnesscharlie.github.io/reading-notes/201/) 
+- [Home](https://fadnesscharlie.github.io/reading-notes/201/) 
 
 ## Lists
 
@@ -570,3 +570,19 @@ Means if will stop the *current* code block it is in, test to make sure the loop
 This is very nice for examples when you want the local code to run just until that momment, dont run the rest of what is in that local code block, and then continue the loop if the loop is still true.
 
 Example. Local code means if you are an if statement, and there is an else if or else after, it will not run the rest of the else if or else if the `continue;` or `break;` code is run.
+
+## Resources
+
+### From the Duckett HTML book
+
+- Chapter 3: “Lists” (pp.62-73)
+- Chapter 13: “Boxes” (pp.300-329)
+
+### From the Duckett JS book
+
+- Review from Reading 02 - Chapter 2: “Basic JavaScript Instructions” (pp.70-73)
+- Chapter 4: “Decisions and Loops” from switch statements on (pp.162-182)
+
+Please visit my Github for more of my Projects!
+
+[Charlie Fadness Github](https://github.com/fadnesscharlie)

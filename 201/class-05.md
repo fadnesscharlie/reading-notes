@@ -1,6 +1,6 @@
-# Class 201 Reading Notes
+# HTML Images; CSS Color & Text
 
-* [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
+- [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
 
 ## Images
 
@@ -18,9 +18,9 @@ Adding height and width is nice to an image. This is because when your loading a
 
 The three rules:
 
-* Save images under the correct format
-* Save Images at the right size
-* Measure images in pixels
+- Save images under the correct format
+- Save Images at the right size
+- Measure images in pixels
 
 Using these three rules, your image will load faster, will not be stretched, compressed, and know exactly how the image will turn out will it will be laoded on the page.
 
@@ -94,23 +94,23 @@ To bring a font into your CSS, you use the following code with the examples:
 
 Here are a few examples:
 
-* Serif
-  * Georgia
-  * Times
-  * Times New Roman
-* Sans-Serif
-  * Arial
-  * Verdana
-  * Helvetica
-* Monospace
-  * Courier
-  * Courier New
-* Cursive
-  * Comic Sans MS
-  * Monotype Corsiva
-* Fantasy
-  * Impact
-  * Haettenschweiler
+- Serif
+  - Georgia
+  - Times
+  - Times New Roman
+- Sans-Serif
+  - Arial
+  - Verdana
+  - Helvetica
+- Monospace
+  - Courier
+  - Courier New
+- Cursive
+  - Comic Sans MS
+  - Monotype Corsiva
+- Fantasy
+  - Impact
+  - Haettenschweiler
 
 ### Specifying TypeFaces
 
@@ -139,3 +139,20 @@ In text-decoration, we can add and take away some things. Example of this would 
 ### Line-Height
 
 In line height, we can add space above text. When creating the font size, that is the distance from top of the character to the bottom. With `line-height 1.5em;`, we can add space above the top of the character. This is used to seperate context and words from each other.
+
+## Resources
+
+### From the Duckett HTML book
+
+- Chapter 5: “Images” (pp.94-125)
+- Chapter 11: “Color” (pp.246-263)
+- Chapter 12: “Text” (pp.264-299)
+
+## BookMark/Skim
+
+- [JPEG vs PNG vs GIF](https://blog.imagekit.io/jpeg-vs-png-vs-gif-which-image-format-to-use-and-when-c8913ae3e01d)
+  - **NOTE:** The post has a TL;DR you might find handy.
+
+Please visit my Github for more of my Projects!
+
+[Charlie Fadness Github](https://github.com/fadnesscharlie)

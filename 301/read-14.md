@@ -2,6 +2,10 @@
 
 - [Home](https://fadnesscharlie.github.io/reading-notes/301/)
 
+## Resources
+
+- []()
+
 ## BookMark/Skim
 
 - []()

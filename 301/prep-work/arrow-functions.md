@@ -1,5 +1,7 @@
 # Arrow Functions
 
+- [Home](https://fadnesscharlie.github.io/reading-notes/201/)
+
 ## Brief Explanation
 
 - There many uses for arrow functions, and many situations where arrow functions are not the proper tool. We want to look at arrow function as a simple one task that does one things.
@@ -37,3 +39,16 @@ Apply is very simular to call. The main different is what its used for. `apply()
 ### Bind
 
 Bind creates new functions that bind together. Still understanding.
+
+## Resources
+
+- [MDN docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+- [caniuse.com](https://caniuse.com/#search=arrow%20functions)
+
+## BookMark/Skim
+
+- [“JavaScript Arrow Functions” by Wes Bos](https://wesbos.com/arrow-functions/)
+
+Please visit my Github for more of my Projects!
+
+[Charlie Fadness Github](https://github.com/fadnesscharlie)

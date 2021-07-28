@@ -1,6 +1,6 @@
-# Class 201 Reading Notes
+# Assorted Topics
 
-* [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
+- [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
 
 ## Images
 
@@ -12,14 +12,14 @@ Placing a background image inside of an element or whole page is placed in CSS. 
 
 You can modify those images with 4 differnt property values.
 
-* `repeat`
-  * In repeat, we can `repeat-x` and `repeat-y` for the x and y axis.
-* `no-repeat`
-  * Does not repeat the image
-* `fixed`
-  * This fixes the image to that spot on the page and does not move with the page.
-* `scroll`
-  * The image will scroll with the page.
+- `repeat`
+  - In repeat, we can `repeat-x` and `repeat-y` for the x and y axis.
+- `no-repeat`
+  - Does not repeat the image
+- `fixed`
+  - This fixes the image to that spot on the page and does not move with the page.
+- `scroll`
+  - The image will scroll with the page.
 
 ### Background Position
 
@@ -112,3 +112,20 @@ Web hosting is a server that is always connected to the internet that stores you
 ### FTP
 
 File Transfer Protocal which is used to transfer your files from your machine to the server. Once you register a hosting server you will be given instructions to load your files to the FTP. Given a username and password to access these files, it is strongly recommended to not let anyone gain access as then they can modify your website or load in other content from their machine.
+
+## Resources
+
+- [This MDN article on audio and video elements](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
+
+### From the Duckett HTML book
+
+- Chapter 16: “Images” (pp.406-427)
+- Chapter 19: “Practical Information” (476-492)
+
+## BookMark/Skim
+
+- Chapter 9: pages 201-206 only. Flash is no longer supported by many browsers but is an important part of history.
+
+Please visit my Github for more of my Projects!
+
+[Charlie Fadness Github](https://github.com/fadnesscharlie)

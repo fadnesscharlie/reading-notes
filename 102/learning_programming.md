@@ -115,3 +115,16 @@ In this case it would be `wallWidth = 3;` and `wallHeight = 4;`
 This is called arugments
 
 `getArea(wallWidth, wallHeight);`
+
+## Resources
+
+- [MDN Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
+- [Functions](https://www.w3schools.com/js/js_functions.asp)
+- [Operators](https://www.w3schools.com/js/js_operators.asp)
+
+## BookMark/Skim
+
+- [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+- [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+
+[Charlie Fadness Github](https://fadnesscharlie.github.io/Reading-notes/)

@@ -1,5 +1,7 @@
 # Introduction to React and Components
 
+- [Home](https://fadnesscharlie.github.io/reading-notes/301/)
+
 ## Component Based Architecture
 
 - What is a component?
@@ -34,9 +36,10 @@
   - It goes only **one direction**
   - The child **cannot** change props
 
-## Referneces
+## Resources
 
 - [Component Based Architecture](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.html)
+- [What is Props and How to Use it in React](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0#:~:text=%E2%80%9CProps%E2%80%9D%20is%20a%20special%20keyword,way%20from%20parent%20to%20child)
 
 ## BookMark/Skim
 

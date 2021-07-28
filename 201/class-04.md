@@ -1,6 +1,6 @@
-# Class 201 Reading Notes
+# HTML Links, CSS Layout, JS Functions
 
-* [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
+- [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
 
 ## Links
 
@@ -160,9 +160,26 @@ This is called arugments
 
 In pair programming, you not only get to work with someone, but hone a set of skills that would otherwise not be offered to you if you did not. These skills are: Listening, Speaking, Reading, and Writing. Because you are either the "driver" or the "navigator" you have to hone these skills. Knowing what words to say, when to say them, how to inform the other person, and getting another perspective on someone else's code and how their mind may work adds to your set of skills to develop yourself in ways that would not possible if you only coded alone.
 
-* Driver: The person that is coding, and only person typing code into the project. This person is writing code efficently using the information from both parties to optimize the code.
-* Navigator: The person looking over the code for typos, bugs, and thinking of what can go next and where this project is going. Also is doing research ont he side to help more results and information in a short amount of time.
+- Driver: The person that is coding, and only person typing code into the project. This person is writing code efficently using the information from both parties to optimize the code.
+- Navigator: The person looking over the code for typos, bugs, and thinking of what can go next and where this project is going. Also is doing research ont he side to help more results and information in a short amount of time.
 
 The efficeny of pair programming can take slightly longer in speed, but returns higher quality. This leads to less bugs, less troubleshooting, and a higher satisfaction for the client. Because you have two minds on one project going at the same pace and speed, one person is constantly thinking of where this code will go, checking for typos and bugs while the other person is coding away, bringing those ideas to paper and writing it out using both suggestions for the most optimal set of code in the allowed time.
 
 In the new work field, a lot of training can be done over pair programming. Since we are already doing this method at CodeFellows, we are ahead of the game in this aspect as we already have these skills refined and ready for workplace environment.
+
+## Resources
+
+- [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+
+### From the Duckett HTML book
+
+- Chapter 4: Ch.4 “Links” (pp.74-93)
+- Chapter 15: “Layout” (pp.358-404)
+
+### From the Duckett JS book
+
+- Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
+
+Please visit my Github for more of my Projects!
+
+[Charlie Fadness Github](https://github.com/fadnesscharlie)

@@ -1,6 +1,6 @@
-# Class 201 Reading Notes
+# More CSS Layout
 
-* [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
+- [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
 
 ## Layout
 
@@ -62,3 +62,12 @@ When using the fixed vs liquid layouts. Both have their ups and down, and its ba
 
 When you want to link multiple style sheets there are two options to choose from. The most basic is just linking multiple CSS stylesheets to your HTML file. The other way is to link other style sheets directly to your CSS stype sheet. This uses the following code: `@import url("link-to-CSS-style-sheet");` Note that if using this method, it needs to be linked above all other style rules. Many people do this, to control either a section, table, nav, and much more to control what content is showed on what page.
 
+## Resources
+
+### From the Duckett HTML book
+
+- HTML/CSS book, Ch. 15, “Layout” (again; repeat of Class 4 reading)
+
+Please visit my Github for more of my Projects!
+
+[Charlie Fadness Github](https://github.com/fadnesscharlie)

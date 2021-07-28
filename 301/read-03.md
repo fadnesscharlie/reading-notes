@@ -42,14 +42,20 @@
 - How does the child component invoke a method that was passed to it from a parent component?
   - Using an event listener. In the video, it would be a button.
 
-## Things I want to know more about
+## Resources
 
-- Functions and useage of spread operators
+- [React Docs - lists and keys](https://reactjs.org/docs/lists-and-keys.html)
+- [The Spread Operator](https://medium.com/coding-at-dawn/how-to-use-the-spread-operator-in-javascript-b9e4a8b06fab)
+- [How to Pass Functions Between Components](https://www.youtube.com/watch?v=c05OL7XbwXU)
 
 ## BookMark/Skim
 
 - [React Tutorial through ‘Declaring a Winner’](https://reactjs.org/tutorial/tutorial.html)
 - [React Docs - Lifting State Up](https://reactjs.org/docs/lifting-state-up.html)
+
+## Things I want to know more about
+
+- Functions and useage of spread operators
 
 Please visit my Github for more of my Projects!
 

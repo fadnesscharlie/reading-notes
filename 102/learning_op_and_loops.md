@@ -57,3 +57,12 @@ This process runs over and over through until  i is 11, then it becomes false, a
 ### While Loops
 
 While loops are very simular to for loops. One of the main differences is that with a for loop, its more towards setting to something. A while takes in more of a boolean, which is true or false. If the while loop is true, it will keep going __UNITL__ it gets a false. Then it will break out of the loop.
+
+## Resources
+
+- [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+- [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
+
+Please visit my Github for more of my Projects!
+
+[Charlie Fadness Github](https://github.com/fadnesscharlie)

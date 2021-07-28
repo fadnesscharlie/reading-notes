@@ -1,4 +1,4 @@
-# Welcome Here is a little summary of what I have learned
+# Coders Computer
 
 ## Learning JavaScript Programming
 
@@ -7,11 +7,11 @@
 Through all the things I have learned through this course so far are a lot of useful features that you may run into and never bothering to open, or even look it.
 Today I'll explain a few of those features to you!
 
-* Github
-* Mindset
-* Growth
-* Markdown
-* Professionalism  
+- Github
+- Mindset
+- Growth
+- Markdown
+- Professionalism  
 
 I'll explain our topics in some short summaries of each.
 
@@ -46,5 +46,12 @@ is very good to practice, even to train your subconscious to be able to perform 
 
 Here are things that I learned from class so far. I hope this has helped you in any way or form, whether knowledge or ideas. Thank you very much for reading and I look forward
 to showing you so much more information in the future!
+
+## Resources
+
+- [Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+- [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+- [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+- [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 [Charlie Fadness Github](https://github.com/fadnesscharlie)

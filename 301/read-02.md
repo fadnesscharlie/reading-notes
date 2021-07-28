@@ -40,15 +40,22 @@ States are handled inside the component. It updates based on what the user or in
 
 Lets a component save AND update data FOR ITSELF. Within one component. Can be updated using setState.
 
-## Things I want to know more about
+## Resources
 
-- State and Props
+- [React lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
+- [React State Vs Props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
 
 ## BookMark/Skim
 
+- [React Bootstrat Documentation](https://react-bootstrap.github.io/)
+- [Netlify](https://www.netlify.com/)
 - [React Docs - State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
 - [React Docs - Handling Events](https://reactjs.org/docs/handling-events.html)
 - [React Turorials through 'Developer Tools'](https://reactjs.org/tutorial/tutorial.html)
+
+## Things I want to know more about
+
+- State and Props
 
 Please visit my Github for more of my Projects!
 

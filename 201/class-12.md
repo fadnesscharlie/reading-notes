@@ -1,6 +1,6 @@
-# Class 201 Reading Notes
+# Docs for the HTML canvas Element & Chart.js
 
-* [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
+- [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
 
 ## Charts and Canvases
 
@@ -42,7 +42,7 @@ This is a skeleton template
 &nbsp;&nbsp;`</body>`
 `</html>`
 
-Taken from https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage
+Taken from [Basic usage of canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
 
 ### Shapes
 
@@ -67,3 +67,16 @@ Line styles and line width can create just a little more detail, and even finish
 Using the draw method, we can create words, position them to where to want, create outlines of the words, or fill them with specific colors.
 
 Using all of these specfic things, a canvas is just a white board that is waiting for us to decorate it with colors, words, and styles to please our audience.
+
+## Resources
+
+- [Chart JS](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
+- [Chart.js docs](http://www.chartjs.org/docs/)
+- [Basic usage](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Basic_usage)
+- [Drawing shapes with canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
+- [Applying styles and colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
+- [Drawing text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
+
+Please visit my Github for more of my Projects!
+
+[Charlie Fadness Github](https://github.com/fadnesscharlie)

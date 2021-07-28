@@ -23,7 +23,15 @@ Growth mindset is all about how we push ourselfs and move forward. Understanding
 2. Learning is growing and growing is learning
 3. Self improvement/development
 
-Thank you for reading this webpage! I look forward to working with you in the future!
+## Resources
 
+- [Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/)
+- [GitHub Pages](https://pages.github.com/)
+
+## BookMark/Skim
+
+- [https://help.github.com/en/articles/basic-writing-and-formatting-syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
+Thank you for reading this webpage! I look forward to working with you in the future!
 
 [Charlie Fadness Github](https://fadnesscharlie.github.io/Reading-notes/)

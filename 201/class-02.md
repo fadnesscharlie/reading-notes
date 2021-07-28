@@ -1,6 +1,6 @@
-# Class 02
+# HTML Text, CSS Introduction, and Basic JavaScript Instructions
 
-* [Home](https://fadnesscharlie.github.io/reading-notes/201/) 
+- [Home](https://fadnesscharlie.github.io/reading-notes/201/) 
 
 ## HTML
 
@@ -161,22 +161,22 @@ p {
 
 There many differnt types of selectors, from:
 
-* `universal: * {}`
-  * This targets all elements on the page
-* `Type: h1, h2 {}`
-  * Targets all the `<h1>`, and `<h2>` elements
-* `Class: .note {}`
-  * Target all elements with the class attribute
-* `ID: #Introduction {}`
-  * Same as the class, but targets all the id attributes
-* `Child: li>a {}`
-  * This targets the child of `<li>` which would be the `<a>` tag elements, but no other `<a>` tags on the page because it targets just the child of `<li>`.
-* `Descendant: p a {}`
-  * Targets all the `<a>` tags inside the `<p>` tags, even if there are elements nested inbetween them.
-* `Adjacement sibling: h1+p {}`
-  * This targets the first `<p>` tag after the `<h1>` tag and no other `<p>` tags after.
-* `General sibling: h1~p {}`
-  * This targets all the `<p>` that are siblings that are below the `<h1>` tag. This is different then the Descendant because it looks for siblings, not every `<p>` tag under.
+- `universal: * {}`
+  - This targets all elements on the page
+- `Type: h1, h2 {}`
+  - Targets all the `<h1>`, and `<h2>` elements
+- `Class: .note {}`
+  - Target all elements with the class attribute
+- `ID: #Introduction {}`
+  - Same as the class, but targets all the id attributes
+- `Child: li>a {}`
+  - This targets the child of `<li>` which would be the `<a>` tag elements, but no other `<a>` tags on the page because it targets just the child of `<li>`.
+- `Descendant: p a {}`
+  - Targets all the `<a>` tags inside the `<p>` tags, even if there are elements nested inbetween them.
+- `Adjacement sibling: h1+p {}`
+  - This targets the first `<p>` tag after the `<h1>` tag and no other `<p>` tags after.
+- `General sibling: h1~p {}`
+  - This targets all the `<p>` that are siblings that are below the `<h1>` tag. This is different then the Descendant because it looks for siblings, not every `<p>` tag under.
 
 ## CSS Rules Cascade
 
@@ -407,6 +407,22 @@ An Example of this would be:
 `}`
 
 In this case, we also see an else if, and else statements as well. We can see that our if statement asks if our carSpeed variable is more then 65, if it would be, we would slowDown. If our car speed was less then 65, it would move to the next statement, which would be else if our carSpeed was slower then 55, we would speedUp. And if our carSpeed was in the middle of both 55 and 65, we would stay the same speed. 
+
+## Resources
+
+### From the Duckett HTML book
+
+- Chapter 2: “Text” (pp.40-61)
+- Chapter 10: Ch.10 “Introducing CSS” (pp.226-245)
+
+### From the Duckett JS book
+
+- Chapter 2: “Basic JavaScript Instructions” (pp.53-84)
+- Chapter 4: “Decisions and Loops” **only up to the section on switch statements** (pp.145-162)
+
+## BookMark/Skim
+
+- [https://chris.beams.io/posts/git-commit/](https://chris.beams.io/posts/git-commit/)
 
 Please visit my Github for more of my Projects!
 

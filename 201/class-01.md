@@ -1,6 +1,6 @@
-# Class 01
+# Introductory HTML and JavaScript
 
-* [Home](https://fadnesscharlie.github.io/reading-notes/201/) 
+- [Home](https://fadnesscharlie.github.io/reading-notes/201/)
 
 ---
 
@@ -33,6 +33,21 @@ Now I'm sure you have heard of the three main languages that make a website a we
 In programming, this is where we add JS. Basically the functionality of our website. We have our layout and fancy colors. Now we add JS to make the page do things. Example of this would be a pull down bar when you hover over the navigation line, it brings down a list of links or web pages to go to or adds things to your cart and totals the amount of the cost. These are example of JS. We add them to our page through a script on the HTML page, or link a `.js` page and call functions to activate either instantly or when called upon. We use the `<script></script>` tag to bring a function or lines of code into out HTML page. We mostly want to add any linked pages to the bottom, as we want our page to load first, then apply the JS after so it does not hinder the page loading. You dont want to see a white page, then everything laods. You want to see everything load all at once, and as you find what you want to do, the JS will then apply all of its things after.
 
 This is the basics of a Website. There are many ways to create a website, depending on who you want to target, and what audience you want to come into your website. Look forward for more information as I move more into coding and learning new things that I can then teach you by reading my Markdown files. Until then! Thanks for taking your time to read my Reading Notes!
+
+## Resources
+
+### From the Duckett HTML book
+
+- Introduction (pp.2-11)
+- HTML Chapter 1: “Structure” (pp.12-39)
+- HTML Chapter 8: “Extra Markup” (p.176-199)
+- HTML Chapter 17: “HTML5 Layout” (pp.428-451)
+- HTML Chapter 18: “Process & Design” (pp.452-475)
+
+### From the Duckett JS book
+
+- Introduction
+- JS Chapter 1: “The ABC of Programming” (pp.11-52)
 
 Please visit my Github for more of my Projects!
 

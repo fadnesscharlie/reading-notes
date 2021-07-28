@@ -5,27 +5,28 @@
 
 ## Table of Contents
 
-### Code 102: Intro to Software Development 
+### Code 102: Intro to Software Development
 
-* [Code 102: Home](https://fadnesscharlie.github.io/reading-notes/102) &nbsp;
+- [Code 102: Home](https://fadnesscharlie.github.io/reading-notes/102) &nbsp;
 
 ### Code 201: Foundations of Software Development
 
 - [Code 201: Home](https://fadnesscharlie.github.io/reading-notes/201)
-* [Introductory HTML and JavaScript](class-01)
-* [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02)
-* [HTML Lists, CSS Boxes, JS Control Flow](class-03)
-* [HTML Links, CSS Layout, JS Functions](class-04)
-* [HTML Images; CSS Color & Text](class-05)
-* [JS Object Literals; The DOM](class-06)
-* [HTML Tables; JS Constructor Functions](class-07)
-* [More CSS Layout](class-08)
-* [Forms and Events](class-09)
-* [JS Debugging](class-10)
-* [Assorted Topics](class-11)
-* [Docs for the HTML canvas Element & Chart.js](class-12)
-* [Local Storage](class-13)
-* [CSS Transforms, Transitions, and Animations & What Google Learned About Teams](class-14)
+
+- [Introductory HTML and JavaScript](class-01)
+- [HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02)
+- [HTML Lists, CSS Boxes, JS Control Flow](class-03)
+- [HTML Links, CSS Layout, JS Functions](class-04)
+- [HTML Images; CSS Color & Text](class-05)
+- [JS Object Literals; The DOM](class-06)
+- [HTML Tables; JS Constructor Functions](class-07)
+- [More CSS Layout](class-08)
+- [Forms and Events](class-09)
+- [JS Debugging](class-10)
+- [Assorted Topics](class-11)
+- [Docs for the HTML canvas Element & Chart.js](class-12)
+- [Local Storage](class-13)
+- [CSS Transforms, Transitions, and Animations & What Google Learned About Teams](class-14)
 
 ### Code 301: Intermediate Software Development
 
@@ -37,6 +38,12 @@
 
 <br>
 <img src="../images/Profile-Pic.JPG" width="600" height="400">
+
+## Resources
+
+- When linking certain pages for readings, I will refer to these books.
+  - HTML & CSS: Designing and Building Web Sites by Jon Duckett
+  - JavaScript & jQuery: Interactive Front-End Development by Jon Duckett
 
 Thank you for reading this webpage! I look forward to working with you in the future!  
 

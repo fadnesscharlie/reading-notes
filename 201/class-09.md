@@ -1,6 +1,6 @@
-# Class 201 Reading Notes
+# Forms and Events
 
-* [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
+- [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
 
 ## Forms
 
@@ -22,15 +22,15 @@ method: get or post
 
 Use Post when:
 
-* Users will upload a file
-* Is very long
-* Contains sensitive data like passwords
-* Adds information to, or deletes information from, a database
+- Users will upload a file
+- Is very long
+- Contains sensitive data like passwords
+- Adds information to, or deletes information from, a database
 
 Use Get when:
 
-* dealing with short forms
-* Retrieving data from a web server only
+- dealing with short forms
+- Retrieving data from a web server only
 
 ### Input
 
@@ -55,10 +55,10 @@ Multiple Select Box
 
 There are a few ways to incorporate when we want the user to click or choose something. We can have a simple:
 
-* Radio Button, which once, clicked can not be unclicked and only have one clicked per section.
-* CheckBox, simular to the radio button, but with checks and the user can now select multiple or deselect their answer
-* Drop Down List Box/Select Box, the user can see multiple choices and be able to scroll through information, as with the Radio Button, only one can be selected at time
-* Multiple Select Box, simular to the Select Box, but here we can choose multiple items instead of just one.
+- Radio Button, which once, clicked can not be unclicked and only have one clicked per section.
+- CheckBox, simular to the radio button, but with checks and the user can now select multiple or deselect their answer
+- Drop Down List Box/Select Box, the user can see multiple choices and be able to scroll through information, as with the Radio Button, only one can be selected at time
+- Multiple Select Box, simular to the Select Box, but here we can choose multiple items instead of just one.
 
 Note that inside these button/boxes, we have values, values are the ones that will be shown to the user.
 
@@ -94,7 +94,7 @@ More things to take note: Style your forms, buttons, text inputs, and legends!!!
 
 ## JavaScript
 
-With events, there are many ways of wrapping your mind and how to code it through. 
+With events, there are many ways of wrapping your mind and how to code it through.
 
 Starting with how the event is processed. First when we start to look at the event, we can control what the event is, and most importantly what happens when the event is fired. From there, our code gets sent to another page, that runs a scripp based on what is send through. From being able to respond back with a certain line of text, or being able to start a program.
 
@@ -102,8 +102,23 @@ Event listeners are one of many things taht we can look towards for events. It c
 
 One thing that we have to work around, is that event listeners do not take in parameters. Which can be an issue so working around this your code and having it do certain things takes more skill then the usual function.
 
-Event flow is very important, its how we can tell the webpage or program when/where to start, stop, and return something. Understanding the flow will help becuase you are able to then be certain on when your function/progams will run and where to place the outcomes. 
+Event flow is very important, its how we can tell the webpage or program when/where to start, stop, and return something. Understanding the flow will help becuase you are able to then be certain on when your function/progams will run and where to place the outcomes.
 
 WIth mouse and key presses, you can set and control when something is clicked in a certain area that may now have a special property, or when something is typed that may not be in a text box. Being able to control these is like being able to use the copy and paste controls and clicking away from something that then responds in a way that you want.
 
-With all of these together, we can now make our pages a lot more interactive and responsive in ways that we want, and have certain thing happen when someting is clicked, submitted, typed, focused, or even blurred away from something. 
+With all of these together, we can now make our pages a lot more interactive and responsive in ways that we want, and have certain thing happen when someting is clicked, submitted, typed, focused, or even blurred away from something.
+
+## Resources
+
+### From the Duckett HTML book
+
+- Chapter 7: “Forms” (p.144-175)
+- Chapter 14: “Lists, Tables & Forms” (pp.330-357)
+
+### From the Duckett JS book
+
+- Chapter 6: “Events” (pp.243-292)
+
+Please visit my Github for more of my Projects!
+
+[Charlie Fadness Github](https://github.com/fadnesscharlie)

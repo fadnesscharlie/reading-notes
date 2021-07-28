@@ -1,6 +1,6 @@
-# Class 201 Reading Notes
+# JS Object Literals; The DOM
 
-* [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
+- [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
 
 ## Object
 
@@ -96,3 +96,16 @@ While using the DOM, there are many things you can do, some of those things incl
 Things to note, you can classify something using methods, here are some examples: `getAttribute()`, `hasAttribute()`, `setAttribute()`, or `removeAttribute()`.
 
 Being able to control the DOM, makes it very simple to change things when something runs, being able to set certain rules, updating, creating, or even removing elements, text, or even markup is very powerful!
+
+## Resources
+
+- [Understanding the problem domain is the hardest part of programming](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming)
+
+### From the Duckett JS book
+
+- Chapter 3: “Object Literals” (pp.100-105)
+- Chapter 5: “Document Object Model” (pp.183-242)
+
+Please visit my Github for more of my Projects!
+
+[Charlie Fadness Github](https://github.com/fadnesscharlie)

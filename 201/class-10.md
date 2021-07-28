@@ -1,6 +1,6 @@
-# Class 201 Reading Notes
+# JS Debugging
 
-* [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
+- [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
 
 ## Debugging
 
@@ -80,17 +80,17 @@ Using Chrome, we open the developer tools, go to sources, highlight an area that
 
 From here we can play the code step by step to find the errors. We will get 4 options:
 
-* a pause/play
-* step through - run code by line
-* step into - steps into a function as sometimes they bypass them
-* step out - steps outside of a function
+- a pause/play
+- step through - run code by line
+- step into - steps into a function as sometimes they bypass them
+- step out - steps outside of a function
 
 We can set the breakpoint to have a conditional statement. For that we:
 
-* Right-click on the actual line number in our code the code is written on
-* Select Add Conditional breakpoint
-* In the box, we then write out condition that we want to it to break to
-* The code will stop when the conditional statement is true
+- Right-click on the actual line number in our code the code is written on
+- Select Add Conditional breakpoint
+- In the box, we then write out condition that we want to it to break to
+- The code will stop when the conditional statement is true
 
 #### Debugger Keyword
 
@@ -115,3 +115,13 @@ We can throw an error before an error pops up if we think there might be one the
 We can use try, catch, finally and add in throwing errors to make our code bug proof and catch anything that might be harmful to the rest of our code base.
 
 We use the throwing errors by typing: `throw new Error('message');`. You want to be extremely descriptive and one place to put this is in an if else statement to catch the error.
+
+## Resources
+
+### From the Duckett JS book
+
+- JavaScript book, Ch. 10, “Error Handling & Debugging”
+
+Please visit my Github for more of my Projects!
+
+[Charlie Fadness Github](https://github.com/fadnesscharlie)

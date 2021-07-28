@@ -1,7 +1,4 @@
-wdawawwdawAsdawAW1d3aawaawd dwawswwdsdwdewA%W!WsssawADAa4w3sw1wawswwdewwswawd
 # Learning CSS
-
-# Learning JavaScript Programming
 
 [Home](https://fadnesscharlie.github.io/reading-notes/102)
 
@@ -46,14 +43,14 @@ p {
 
 There many differnt types of selectors, from:
 
-* `universal: * {}`
-* `type: h1, h2 {}`
-* `Class: .note {}`
-* `ID: #Instroduction {}`
-* `child: li>a {}`
-* `descendant: p a {}`
-* `adjacement sibling: h1+p {}`
-* `general sibling: h1~p {}`
+- `universal: * {}`
+- `type: h1, h2 {}`
+- `Class: .note {}`
+- `ID: #Instroduction {}`
+- `child: li>a {}`
+- `descendant: p a {}`
+- `adjacement sibling: h1+p {}`
+- `general sibling: h1~p {}`
 
 ## Colors
 
@@ -76,5 +73,16 @@ Lightness is the amount of white(lightness) or black(darkness) in a color. 0% be
 ## CSS3 RGBA
 
 There is a way to add opacity to a RBG as well. You choose your colors adding a fourth number at the end, ex. "`background-color: rgb(75,75,75,.5);`" Opacity is nice when you want to have a color fade into the background, or bring something else from the back.
+
+## Resources
+
+- [What is CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+- [How to Add CSS](https://www.w3schools.com/css/css_howto.asp)
+- [CSS Color](https://www.w3schools.com/cssref/pr_text_color.asp)
+
+## BookMark/Skim
+
+- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- [Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/)
 
 [Charlie Fadness Github](https://fadnesscharlie.github.io/Reading-notes/)

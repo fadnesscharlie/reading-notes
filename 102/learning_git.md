@@ -28,5 +28,10 @@ Three simple concepts to make sure everything runs smooth while using Git.
 
 With all of this combined and a lot more. Is the basics of Git.
 
+## Resources
+
+- [Git Intro](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
+  - Read only up through the section called **“Seeing Your Remote”**.
+
 [Charlie Fadness Github](https://fadnesscharlie.github.io/Reading-notes/)
 

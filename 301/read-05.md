@@ -20,9 +20,9 @@
 6. How can you identify where state needs to live?
   a. A hierachy of where it exsist, or when you need the data to change into that component.
 
-## Things I want to know more about
+## Resources
 
-- 
+- [React Docs - thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 
 Please visit my Github for more of my Projects!
 

@@ -1,14 +1,12 @@
-# Class 201 Reading Notes
+# Local Storage
 
-* [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
+- [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
 
-## Local Storage
-
-### HTML5 Storage
+## HTML5 Storage
 
 Most things that we will be doing will use HTML5 storage. This was made as a fix to have something that is accessiable for everyone and most browsers to move away from cookies that would just slow down your web speeds. HTML5 Storage is based on key value pairs. Everything is stored as strings, so if you want to return back a number, you need to set it as a number or floating numbering depending on what you want to do. When we want to 
 
-### Storing Information
+## Storing Information
 
 While storing information, we store them in key value pairs.
 
@@ -18,7 +16,7 @@ While storing information, we store them in key value pairs.
 
 This will return `'value'` for us.
 
-#### Square Bracket Syntax
+### Square Bracket Syntax
 
 In square brackets, we are taking out the getItem and setItem for a specific syntax.
 
@@ -27,3 +25,11 @@ In square brackets, we are taking out the getItem and setItem for a specific syn
 `console.log(storedItem);`
 
 This will return `'value'` for us. This is the same thing, but with a shorter syntax.
+
+## Resources
+
+- [The Past, Present, and Future of Local Storage for Web Applications](http://diveinto.html5doctor.com/storage.html)
+
+Please visit my Github for more of my Projects!
+
+[Charlie Fadness Github](https://github.com/fadnesscharlie)

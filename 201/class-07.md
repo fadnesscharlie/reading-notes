@@ -1,6 +1,6 @@
-# Class 201 Reading Notes
+# HTML Tables; JS Constructor Functions
 
-* [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
+- [201 Home](https://fadnesscharlie.github.io/reading-notes/201/)
 
 ## Tables
 
@@ -129,13 +129,13 @@ Other methods that we have seen and used include: `toLowerCase()`, `split()`, an
 
 Some methods of number objects are:
 
-* isNaN(): Checks to see if the value is not a number
-  * 42.41294
-* toFixed(): Rounds the decimal to listed parameter and returns a **string**
-  * Example would be: 42.413
-* toPrecision(): Rounds to total number of placees and returns a **string**
-  * Example would be: 42.4
-* toExponential(): Returns a string represening athe number in exponential notation
+- isNaN(): Checks to see if the value is not a number
+  - 42.41294
+- toFixed(): Rounds the decimal to listed parameter and returns a **string**
+  - Example would be: 42.413
+- toPrecision(): Rounds to total number of placees and returns a **string**
+  - Example would be: 42.4
+- toExponential(): Returns a string represening athe number in exponential notation
 
 ### GLobal Objects: Math Objects
 
@@ -147,3 +147,18 @@ Some method examples would be :
 `Math.floor()`: Rounds the number down dropped the decimal
 `Math.random()`: Generates a number between 0 and 0.9, not up to 1
 
+## Resources
+
+- [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
+
+### From the Duckett HTML book
+
+- Chapter 6: “Tables” (pp.126-145)
+
+### From the Duckett JS Book
+
+- Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
+
+Please visit my Github for more of my Projects!
+
+[Charlie Fadness Github](https://github.com/fadnesscharlie)
