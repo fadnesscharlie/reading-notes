@@ -84,7 +84,7 @@ Reading
 
 ## Things I want to know more about
 
-- How to grab from a database, implementing it, and possibly changing the database.
+- How to grab from a database, implementing it, and possibly changing the database. 
 
 Please visit my Github for more of my Projects!
 
