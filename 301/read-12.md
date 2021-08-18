@@ -2,7 +2,6 @@
 
 - [Home](https://fadnesscharlie.github.io/reading-notes/301/)
 
-Reading
 ## nosql vs sql
 
 ### Fill in the chart below with five differences between SQL and NoSQL databases:
