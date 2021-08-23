@@ -34,10 +34,10 @@
 - [API's](read-08)
 - [Functional Programming](read-09)
 - [In memory storage](read-10)
-- [Class 11](read-11)
-- [Class 12](read-12)
-- [Class 13](read-13)
-- [Class 14](read-14)
+- [Authentication](read-11)
+- [Mongo and Mongoose](read-12)
+- [CRUD](read-13)
+- [Diversity & Inclusion in the Tech Industry](read-14)
 
 ### Code 401: Advanced Software Development in Full-Stack JavaScript
 
