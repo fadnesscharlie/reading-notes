@@ -1,7 +1,9 @@
 
 # Charlie Fadness's First Github Pages
 
-> Hello! Thank you for coming and learning along side my journey into Software Development! In these reading notes, I will be adding information about topics that I have learned and went over. They will be explained in a way that even a person who has never wrote code will understand. I hope you learn a lot by reading, and I hope it guides you with more information about Software Development and what it does, and what you can do with it all. In my Reading Notes 201, I will explain the introduction to Software Development. Please refer to my 102 for a prep and basics on the small stuff as some of it will not be recovered here.
+> Hello! Thank you for coming and learning along side my journey into Software Development! In these reading notes, I will be adding information about topics that I have learned and went over. We will cover a much more in depth functionallity of JavaScript, HTML, and CSS. In JavaScript we will learn more about loops, for/if statements, etc. They will be explained in a way that even a person who has never wrote code will understand. I hope you learn a lot by reading, and I hope it guides you with more information about Software Development and what it does, and what you can do with it all. In my Reading Notes 201, I will explain the introduction to Software Development. Please refer to my 102 for a prep and basics on the small stuff as some of it will not be recovered here. Please look forward to my 301 notes where we dive deeper into JavaScript, React, backend, API's, and servers!
+
+---
 
 ## Table of Contents
 

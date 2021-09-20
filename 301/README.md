@@ -1,8 +1,6 @@
 # Charlie Fadness's First Github Pages
 
-> Hello! Thank you for coming and learning along side my journey into **Software Development**! In these readings, I will be adding information about topics that I have learned and went over. They will be explained in a way that even a person who has never wrote code will understand.
->
->I hope you learn a lot by reading, and I hope it guides you with more information about Software Development and what it does, and what you can do with it all. In my Reading Notes 301, I will explain the introduction to Software Development through React, API's and much more. I look forward to our learning experience and to see our growth together.
+> Hello! Thank you for coming and learning along side my journey into **Software Development**! In these readings, I will be adding information about topics that I have learned and went over. These include backend, server, API's, Node.js, authentication, and much more! They will be explained in a way that even a person who has never wrote code will understand. I hope you learn a lot by reading, and I hope it guides you with more information about Software Development and what it does, and what you can do with it all. I look forward to our learning experience and to see our growth together.
 
 ---
 
