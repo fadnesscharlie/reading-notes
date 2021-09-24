@@ -65,13 +65,37 @@ Below is how it would look when adding it to our database from the terminal
 
 We should get a `INSERT 0 1` command proving it worked.
 
-
-
 When adding more data to this table, we can just **INSERT** more data. It will create a new ID for us because we used **BIGSERIAL**.
+
+## Running a file with SQL data
+
+When you want to run a file, say import it inside of your postgres database, we can use the command `\i <filepath>`. This will run whatever is in that file. It can be to create a whole new table, or it can be to add files to an exsisting table.
+
+## SELECT, sort, etc Command
+
+- `SELECT * FROM <databaseName>;` will print out your current database to see what is **all** inside
+  - Ex. `SELECT gender FROM person;`
+    - Returns only gender from the table person
+- `SELECT first_name, last_name, <parameter from table> FROM person;` will print out all of the first and last names along with what other table header you want in your database.
+- Selecting no parameters returns back just the rows.
+- `SELECT * FROM <database> ORDER BY <parameter(example would be date_of_birth)>;`
+  - This will print out our data in ascending order.
+    - This works for date, numbers, and strings.
+  - Example:
+    `SELECT * FROM person ORDER BY date_of_birth ASC;` will filter by ascending order
+    `SELECT * FROM person ORDER BY date_of_birth DESC;` will filter by descending order
+- `SELECT DISTINCT first_name FROM person ORDER BY first_name;`
+  - This will return the first names of people, but no repeating names and sort them for us.'
+- `SELECT * FROM person WHERE gender = 'Female';`
+  - This will return back data from only data that has 'Female'
+- `SELECT * FROM person WHERE gender = 'Female' AND (first_name = 'Jennifer' OR first_name = 'Sarah');`
+  - We can sort even further to get only females named Jennifer
+    - We can add parentheses around a conditional to sort by more variables
 
 ## Other Notes
 
-Postges uses SQL as its main database
+- Postges uses SQL as its main database
+- Make sure you use your `;`, it is very important as it says when to stop.
 
 ## Resources
 

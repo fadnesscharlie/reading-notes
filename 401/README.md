@@ -23,7 +23,8 @@
 - [Code 401: Home](https://fadnesscharlie.github.io/reading-notes/401)
 - Prep Work
   - [PostgreSQL](postgres)
-- [Reading-01](read-01)
+  - [Pre-Work - Code 401: Advanced Javascript Development](prep-work)
+- [Node Ecosystem, TDD, CI/CD](read-01)
 - [Express](read-02)
 - [Express REST API](read-03)
 - [Data Modeling](read-04)
@@ -67,10 +68,10 @@
 - [Reading-40](read-40)
 - [React Native](read-41)
 - [Ethics in Tech](read-42)
-- [Open-Source Software Contribution](read-43)
+- [Open-Source Software Contribution](read-43)  
 
 <br>
-<img src="../images/Profile-Pic.JPG" width="600" height="400">
+<img src="../images/Profile-Pic.JPG" width="600" height="400">  
 
 Thank you for reading this webpage! I look forward to working with you in the future!  
 
