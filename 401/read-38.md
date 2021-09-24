@@ -1,4 +1,4 @@
-# Event Driven Applications
+# 
 
 - [Home](https://fadnesscharlie.github.io/reading-notes/401/)
 
@@ -8,8 +8,9 @@
 
 ## Resources
 
-- [Event Driven Programming](https://alligator.io/nodejs/event-driven-programming/)
-- [Node docs: events](https://nodejs.org/api/events.html)
+- [Async actions](https://redux.js.org/advanced/asyncactions)
+- [Thunk middleware](https://github.com/reduxjs/redux-thunk)
+- [Redux thunk](https://alligator.io/redux/redux-thunk/)
 
 ## Things I want to know more about
 

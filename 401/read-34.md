@@ -1,4 +1,4 @@
-# Event Driven Applications
+# API Integration
 
 - [Home](https://fadnesscharlie.github.io/reading-notes/401/)
 
@@ -8,8 +8,11 @@
 
 ## Resources
 
-- [Event Driven Programming](https://alligator.io/nodejs/event-driven-programming/)
-- [Node docs: events](https://nodejs.org/api/events.html)
+- []()
+
+## BookMark/Skim
+
+- []()
 
 ## Things I want to know more about
 

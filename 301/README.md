@@ -14,14 +14,12 @@
 
 - [Code 201: Home](https://fadnesscharlie.github.io/reading-notes/201)
 
-### Code 301: Intermediate Software Development Prep Work
-
-- [Arrow Functions](prep-work/arrow-functions.md)
-- [ES6 Classes](prep-work/ES6-classes.md)
-
 ### Code 301: Intermediate Software Development
 
 - [Code 301: Home](https://fadnesscharlie.github.io/reading-notes/301)
+- Prep Work
+  - [Arrow Functions](prep-work/arrow-functions.md)
+  - [ES6 Classes](prep-work/ES6-classes.md)
 - [Introduction to React and Components](read-01)
 - [State and Props](read-02)
 - [Passing Functions as Props](read-03)

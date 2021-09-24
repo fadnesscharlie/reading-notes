@@ -1,4 +1,4 @@
-# Event Driven Applications
+# Advanced State with Reducers
 
 - [Home](https://fadnesscharlie.github.io/reading-notes/401/)
 
@@ -8,8 +8,8 @@
 
 ## Resources
 
-- [Event Driven Programming](https://alligator.io/nodejs/event-driven-programming/)
-- [Node docs: events](https://nodejs.org/api/events.html)
+- [useReducer hook](https://reactjs.org/docs/hooks-reference.html#usereducer)
+- [Ultimate Guide to useReducer](https://blog.logrocket.com/guide-to-react-usereducer-hook/)
 
 ## Things I want to know more about
 

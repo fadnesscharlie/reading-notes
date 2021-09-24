@@ -1,4 +1,4 @@
-# 
+# Event Driven Architecture
 
 - [Home](https://fadnesscharlie.github.io/reading-notes/401/)
 
@@ -8,11 +8,7 @@
 
 ## Resources
 
-- []()
-
-## BookMark/Skim
-
-- []()
+- [AWS SNS and SQS](https://www.youtube.com/watch?v=mXk0MNjlO7A)
 
 ## Things I want to know more about
 

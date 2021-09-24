@@ -1,4 +1,4 @@
-# Event Driven Applications
+# Component Lifecycle / useEffect() Hook
 
 - [Home](https://fadnesscharlie.github.io/reading-notes/401/)
 
@@ -8,8 +8,7 @@
 
 ## Resources
 
-- [Event Driven Programming](https://alligator.io/nodejs/event-driven-programming/)
-- [Node docs: events](https://nodejs.org/api/events.html)
+- [Effects hook](https://reactjs.org/docs/hooks-effect.html)
 
 ## Things I want to know more about
 

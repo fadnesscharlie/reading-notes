@@ -1,4 +1,4 @@
-# 
+# Authorization/Authentication
 
 - [Home](https://fadnesscharlie.github.io/reading-notes/401/)
 
