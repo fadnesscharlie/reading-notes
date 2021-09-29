@@ -47,6 +47,7 @@ Relational database will use data from other database that they have a relations
 `test(# last_name VARCHAR(50) NOT NULL,`  
 `test(# gender VARCHAR(7) NOT NULL,`  
 `test(# date_of_birth DATE NOT NULL,`  
+`test(# country_of_birth NOT NULL,`  
 `test(# email VARCHAR(150) );`
 
 ### Adding data to your table
@@ -55,13 +56,14 @@ Relational database will use data from other database that they have a relations
 &nbsp;&nbsp;`first_name,`  
 &nbsp;&nbsp;`last_name,`  
 &nbsp;&nbsp;`gender,`  
-&nbsp;&nbsp;`date_of_birth)`  
-`VALUES ('Anne', 'Smith', 'FEMALE', DATE '1988-01-09');`
+&nbsp;&nbsp;`date_of_birth)`
+&nbsp;&nbsp;`country_of_birth)`  
+`VALUES ('Anne', 'Smith', 'FEMALE', '1988-01-09', 'France');`
 
 Below is how it would look when adding it to our database from the terminal
 
-`test=# INSERT INTO person ( first_name, last_name, gender, date_of_birth)` - Press enter to go on a new line
-`test-# VALUES ('Anne', 'Smith', 'FEMALE', DATE '1988-01-09');`
+`test=# INSERT INTO person ( first_name, last_name, gender, date_of_birth, country_of_birth)` - Press enter to go on a new line
+`test-# VALUES ('Anne', 'Smith', 'FEMALE','1988-01-09', 'France');`
 
 We should get a `INSERT 0 1` command proving it worked.
 
@@ -91,6 +93,39 @@ When you want to run a file, say import it inside of your postgres database, we 
 - `SELECT * FROM person WHERE gender = 'Female' AND (first_name = 'Jennifer' OR first_name = 'Sarah');`
   - We can sort even further to get only females named Jennifer
     - We can add parentheses around a conditional to sort by more variables
+
+## Comparison Operators
+
+- `SELECT 1 = 1;`
+  - This will return either a `t` or `f` for true or false.
+- The operator can be used for `=`, `<=`, and even `<>` for not true
+- You can compare them between data and not just numbers.
+
+## Limit, Offset, and Fetch
+
+- You can select which rows you want to see with Limit and Offset.
+  - In doing so, you would have to use `SELECT * FROM person LIMIT 5;`
+    - This will show only the first 5.
+  - `SELECT * FROM person OFFSET 5 LIMIT 5;`
+    - This will return ropws 6-10.
+  - Using variations you can use Offset and Limit by itself
+- More of SQL standard would be to use Fetch.
+  - `SELECT * FROM person OFFSET 5 FETCH FIRST <num/blank for first> ROW ONLY;`
+    - This will return rows 6 - whatever number you declare after 6.
+      - Example would be:
+        - `SELECT * FROM person OFFSET 5 FETCH FIRST 10 ROW ONLY;`
+          - You will get the rows between 5 and 15
+
+## In
+
+- Instead of using `SELECT * FROM person WHERE country_of_birth = 'France' OR country_of_birth = 'Brazil' OR country_of_birth = 'China'`
+  - You can short hand this to `SELECT * FROM person WHERE country_of_birth IN ('China', 'Brazil', 'France')`
+
+## Between
+
+- You can select between two things, especially for our `date_of_birth`
+  - `SELECT * FROM person WHERE date_of_birth BETWEEN DATE '2000-01-01' AND '2015-01-01'`
+    - We will see all people who were born between 2000 and 2015.
 
 ## Other Notes
 
