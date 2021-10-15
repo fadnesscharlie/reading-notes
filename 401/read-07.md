@@ -5,13 +5,13 @@
 ## Review, Research, and Discussion
 
 1. Write the following steps in the correct order:
-   - Ask the client if they want to sign in via a third party
-   - Receive access token
    - Register your application to get a client_id and client_secret
-   - Redirect to a third party authentication endpoint
+   - Ask the client if they want to sign in via a third party
    - Make a request to a third-party API endpoint
-   - Receive authorization code
+   - Redirect to a third party authentication endpoint
    - Make a request to the access token endpoint
+   - Receive authorization code
+   - Receive access token
 2. What can you do with an authorization code?
    - You can access data but only as a short-lived token
 3. What can you do with an access token?
