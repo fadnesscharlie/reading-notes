@@ -33,7 +33,6 @@
 - [Bearer Authorization](read-07)
 - [Access Control (ACL)](read-08)
 - [Authorization/Authentication](read-09)
-- [Reading-10](read-10)
 - [Event Driven Applications](read-11)
 - [Socket.io](read-12)
 - [Message Queues](read-13)
