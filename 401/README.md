@@ -39,6 +39,7 @@
 - [Message Queues](read-13)
 - [Event Driven Architecture](read-14)
 - [Reading-15](read-15)
+- [Trees](tree)
 - [AWS: Cloud Servers](read-16)
 - [AWS: S3 and Lambda](read-17)
 - [AWS: API, Dynamo and Lambda](read-18)
