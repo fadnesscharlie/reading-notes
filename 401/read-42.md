@@ -2,9 +2,17 @@
 
 - [Home](https://fadnesscharlie.github.io/reading-notes/401/)
 
-## ---Subject
+## Ethics
 
+Summary from "Google and AI" and "Cyber-Security of self driving cars".
 
+## Google and AI
+
+When a tech giant starts to get into more person data of its users, then having an outside source trying to lean things towards thier way. When the line drawn before they take over and use our information in ways we dont want them to. One thing I am sure everyone is afraid of is the futuristic movies where they scan your id card, and know everything you did. From not using your blinker to a stealing candy when you were 10. If we add this with a tech giant that now compares this to all other information you have done, they can become biased. Start to use their algorithm for their own bad deeds and control more of what we do. We have to make sure to know all the things that can go wrong, and try to prevent it from happening. 
+
+## Cyber-Security of self driving cars
+
+When we think of ethics of self driving cars, we think of in what ways would people use this. For good, for bad? And how can we prevent the bad but keep the good. By introducing another technology that is still new, but effects tons of people around you, how do you make it safe? One option is to compare it to airplanes. If we can secure it through its own private network, then that makes it more secure, we will know when someone is trying to do a hack and take control of it as its happening vs after the hacker has gotten in the system.For a self driving car, I think if we take the thought of, expect the worse to happen, and plan for that. We can not fully make something unhackable, but we can have in place things to stop/prevent further damage from happening.
 
 ## Resources
 
